@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marabanu
 - 👀 I’m interested in AI, ML, Game Design, UI/UX. 
 - 🌱 I’m currently learning PYTHON
-- 📫 Email me: sathya.kv.4 at gmail
 
 <!---
 marabanu/marabanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
